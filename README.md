@@ -97,5 +97,4 @@ Open `http://localhost:8080/netAssetManager/` in your browser.
 **Shaik Asgar**
 **Lakshya Kaushik**
 **Pratik Raj Ansh**
-B.Tech Computer Science & Engineering (Cybersecurity)  
-Marwadi University, Rajkot
+B.Tech Computer Science & Engineering (Cybersecurity)
